@@ -1,0 +1,31 @@
+{
+    "author": "the1andonlydave@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "pebblecheatsheet",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "PebbleCheatSheet",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "a3277cd1-9876-46a6-8e80-77c0b4168594",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "0.1.0"
+}
